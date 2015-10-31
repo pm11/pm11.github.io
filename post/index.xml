@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on pm11 memo</title>
+    <link>http://pm11.github.io/post/</link>
+    <description>Recent content in Posts on pm11 memo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 28 May 2015 13:16:19 +0900</lastBuildDate>
+    <atom:link href="http://pm11.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>これはテストです</title>
+      <link>http://pm11.github.io/2015/05/28/%E3%81%93%E3%82%8C%E3%81%AF%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99</link>
+      <pubDate>Thu, 28 May 2015 13:16:19 +0900</pubDate>
+      
+      <guid>http://pm11.github.io/2015/05/28/%E3%81%93%E3%82%8C%E3%81%AF%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99</guid>
+      <description>&lt;p&gt;テストです&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
